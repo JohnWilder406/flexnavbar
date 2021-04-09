@@ -1,0 +1,40 @@
+.nav {
+    display: flex;
+    background-color: rgb(104, 146, 238);
+    flex: 1;
+    align-items: center;
+    justify-content: space-around;
+    height: 100px;
+}
+
+img {
+    padding: 10px;
+    align-self: center;
+    height: 60px;
+    width: auto;
+
+}
+h1 {
+    color: white;
+    font-family: "Montserrat";
+    align-self: spa
+}
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    font-family: "Montserrat";
+}
+
+li {
+    float: left;
+}
+
+li a {
+    text-align: center;
+    padding: 75px;
+}
